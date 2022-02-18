@@ -1,1 +1,1 @@
-# jenkins-pipeline-demo-library
+# jenkins-pipeline-demo-shared-library
